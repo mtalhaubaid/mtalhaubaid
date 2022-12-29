@@ -16,17 +16,14 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mtalhaubaid" alt="mtalhaubaid" /></a> </p> -->
 <h2 align="left">⚡ Profile Overview ⚡</h2>
 
-- 🔭 I’m currently working on <b>Medical Image Analyses, Chest-Xray disease localization, Breast Cancer Detection, Object Segmentation, Data Mining, Scrapping</b> .
+- 🔭 I’m currently working on <b>Activity Detection and Recognition, Object Segmentation, Data Mining, Scrapping</b> .
 
 - 🌱 I’m currently learning **Django, AWS, Docker**
 
-- 👯 I’m looking to collaborate on **Disease Localization Chest X-ray, Segmentation, Classification, or any ML research.**
-
 - 💬 Ask me about **Artificial Intelligence, Machine Leanring, Deep Learning**
 
-- 📫 How to reach me **nawazktk99@gmail.com**
+- 📫 How to reach me **muhammadtalhaubaid@gmail.com**
 
-- ⚡ Fun fact **I think I am hard worker :)**
 
 <h2>⚡ Send 💬 text to my Social Platform for developing AI-Based Projects⚡</h2>
 

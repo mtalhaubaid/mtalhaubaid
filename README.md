@@ -34,7 +34,7 @@
 
 <p align="left"> <a href="https://twitter.com/mtalhaubaid" target="blank"><img src="https://img.shields.io/twitter/follow/mtalhaubaid?logo=twitter&style=for-the-badge" alt="engr_ali_nawaz" /></a> </p>
 <h2 align="left">⚡ Stats ⚡</h2>
-<p align = "right"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mtalhaubaid&&show_icons=true&theme=radical" alt="mtalhaubaid" /></p>
+
  </br>
 <p> <img align="centre" src="https://github-readme-stats.vercel.app/api?username=mtalhaubaid&&show_icons=true&theme=radical" /> </p>
  

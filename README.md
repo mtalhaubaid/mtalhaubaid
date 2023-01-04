@@ -1,6 +1,6 @@
 <h1 align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+My+self+Muhammad+Talha+Ubaid!;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Talha+Ubaid!;&center=true&size=30">
   </a></h1><!-- <h1 >Hi 👋, I'm Muhammad Talha Ubaid</h1> -->
 <p align="left">
   <h3>Hi, I'm Muhammad Talha Ubaid, A passionate Artificial Intelligence developer/Coder,  Learner 👨‍💻 from Pakistan.</h3>
@@ -12,7 +12,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mtalhaubaid&label=Profile%20views&color=0e75b6&style=flat" alt="mtalhaubaid" /> </p>
 
 
-<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+<img align="right" style="width:300px;height:300px;" src="https://github.com/mtalhaubaid/mtalhaubaid/blob/master/3.gif"/>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mtalhaubaid" alt="mtalhaubaid" /></a> </p> -->
 <h2 align="left">⚡ Profile Overview ⚡</h2>
 

@@ -36,9 +36,9 @@
 <h2 align="left">⚡ Stats ⚡</h2>
 
  </br>
-<p> <img align="centre" src="https://github-readme-stats.vercel.app/api?username=mtalhaubaid&&show_icons=true&theme=radical" /> </p>
+<p> <img align="centre" src="https://github-readme-stats.vercel.app/api?username=mtalhaubaid&&show_icons=true&theme" /> </p>
  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mtalhaubaid&show_icons=true&theme=radical" alt="mtalhaubaid" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mtalhaubaid&show_icons=true&theme" alt="mtalhaubaid" /></p>
 <div>
 <h2 align="left">⚡ Contribution ⚡</h2>
 <a href="https://github.com/mtalhaubaid"><img alt="Snake animation" src="https://github.com/mtalhaubaid/mtalhaubaid/blob/main/github-user-contribution.svg"/></a>

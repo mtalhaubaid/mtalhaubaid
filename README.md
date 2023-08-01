@@ -93,7 +93,7 @@
 
 <h2 align="left">⚡Thanks for stopping by 😁:) ⚡</h2>
 <!-- <p align="center" >Thanks for stopping by 😁</><br/> -->
-<h3 align="left">⚡ You can Support on:</h3>
+
 
 
 <p align="left">

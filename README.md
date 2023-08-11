@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning **Django, AWS, Docker**
 
-- 💬 Ask me about **Artificial Intelligence, Machine Leanring, Deep Learning**
+- 💬 Ask me about **Artificial Intelligence, Machine Learning, Deep Learning**
 
 - 📫 How to reach me **muhammadtalhaubaid@gmail.com**
 

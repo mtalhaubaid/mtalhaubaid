@@ -3,10 +3,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Talha+Ubaid!;&center=true&size=30">
   </a></h1><!-- <h1 >Hi 👋, I'm Muhammad Talha Ubaid</h1> -->
 <p align="left">
-  <h3>Hi, I'm Muhammad Talha Ubaid, A passionate Artificial Intelligence developer/Coder,  Learner 👨‍💻 from Pakistan.</h3>
+  <h3>Hi, I'm Muhammad Talha Ubaid, A Passionate Artificial Intelligence Engineer 👨‍💻 </h3>
   🎓 Completed my masters degree from <a href="#"><b>University Of Central Punjab.</b></a>
   <br>
-  🧑‍💼 I’m currently working as Artificial Intelligence Engineer at <a href="https://horizon.com.pk/"><b> Horizon Tech Services</b> </a>
+  💼 Currently working as AI Engineer at <a href="https://horizon.com.pk/"><b> Horizon Tech Services</b> </a>
   <br></p>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mtalhaubaid&label=Profile%20views&color=0e75b6&style=flat" alt="mtalhaubaid" /> </p>

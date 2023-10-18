@@ -4,7 +4,7 @@
   </a></h1><!-- <h1 >Hi 👋, I'm Muhammad Talha Ubaid</h1> -->
 <p align="left">
   <h3>Hi, I'm Muhammad Talha Ubaid, A Passionate Artificial Intelligence Engineer 👨‍💻 </h3>
-  🎓 Completed my masters degree from <a href="#"><b>University Of Central Punjab.</b></a>
+  🎓 Completed my masters degree from <a href="#"><b>University Of Central Punjab</b></a>
   <br>
   💼 Currently working as AI Engineer at <a href="https://horizon.com.pk/"><b> Horizon Tech Services</b> </a>
   <br></p>

@@ -16,14 +16,14 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mtalhaubaid" alt="mtalhaubaid" /></a> </p> -->
 <h2 align="left">⚡ Profile Overview ⚡</h2>
 
-- 🔭 A highly motivated and results-driven AI & machine learning engineer with 3+ years of experience in developing and implementing machine learning, natural language processing, and computer vision solutions. I’m currently working on <b>Activity Detection and Recognition, Object Segmentation, Data Mining, Scrapping</b> .
+- A highly motivated and results-driven AI & machine learning engineer with 3+ years of experience in developing and implementing machine learning, natural language processing, and computer vision solutions. I’m currently working on <b>Activity Detection and Recognition, Object Segmentation, Data Mining, Scrapping</b> .
 
 - 💬 Ask me about **Artificial Intelligence, Machine Learning, Deep Learning**
 
 - 📫 How to reach me **muhammadtalhaubaid@gmail.com**
 
 
-<h2>⚡ Send 💬 text to my Social Platform for developing AI-Based Projects⚡</h2>
+<h2>⚡ Send 💬 text to my social platform for developing AI-based projects⚡</h2>
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/talhaaubaid/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mtalhaubaid/)

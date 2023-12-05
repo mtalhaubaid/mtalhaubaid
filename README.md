@@ -16,9 +16,7 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mtalhaubaid" alt="mtalhaubaid" /></a> </p> -->
 <h2 align="left">⚡ Profile Overview ⚡</h2>
 
-- 🔭 I’m currently working on <b>Activity Detection and Recognition, Object Segmentation, Data Mining, Scrapping</b> .
-
-- 🌱 I’m currently learning **Django, AWS, Docker**
+- 🔭 A highly motivated and results-driven AI & machine learning engineer with 3+ years of experience in developing and implementing machine learning, natural language processing, and computer vision solutions. I’m currently working on <b>Activity Detection and Recognition, Object Segmentation, Data Mining, Scrapping</b> .
 
 - 💬 Ask me about **Artificial Intelligence, Machine Learning, Deep Learning**
 

@@ -31,7 +31,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mtalhaubaid/)
 
 <p align="left"> <a href="https://twitter.com/mtalhaubaid" target="blank"><img src="https://img.shields.io/twitter/follow/mtalhaubaid?logo=twitter&style=for-the-badge" alt="engr_ali_nawaz" /></a> </p>
-<h2 align="left">⚡ Stats ⚡</h2>
+<h2 align="left"> Stats </h2>
 
  </br>
 <p> <img align="centre" src="https://github-readme-stats.vercel.app/api?username=mtalhaubaid&&show_icons=true&theme" /> </p>
